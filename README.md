@@ -71,6 +71,12 @@ The model trains on CPU in about 10 seconds — no GPU required.
 
 ---
 
+## ☕ Support
+
+If you find this project helpful, you can [buy me a coffee](https://www.buymeacoffee.com/jcny) 🙏
+
+---
+
 ## 📜 License
 
 MIT License
